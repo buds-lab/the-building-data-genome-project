@@ -72,3 +72,5 @@ target/
 # exclude data from source control by default
 ./data/
 
+data/raw/meta.csv
+data/raw/temporal.csv
