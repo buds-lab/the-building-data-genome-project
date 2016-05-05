@@ -1,7 +1,9 @@
-temporal-features-for-buildings
+Transformation of Raw Electrical Meter Data for Temporal Data Mining of Building Performance
 ==============================
 
-Transformation of Raw Data for Temporal Data Mining
+This project is a supplement to [Clayton Miller's](https://www.researchgate.net/profile/Clayton_Miller2) dissertation titled [Screening Meter Data: Unsupervised Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings](https://github.com/architecture-building-systems/clayton-thesis-screening-meter-data)
+
+Overview of the temporal data: 
 
 Project Organization
 ------------
