@@ -3,7 +3,15 @@ Transformation of Raw Electrical Meter Data for Temporal Data Mining of Building
 
 This project is a supplement to [Clayton Miller's](https://www.researchgate.net/profile/Clayton_Miller2) dissertation titled [Screening Meter Data: Unsupervised Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings](https://github.com/architecture-building-systems/clayton-thesis-screening-meter-data)
 
-Overview of the temporal data: 
+Goals of Project
+------------
+1. Give an overview of 507 non-residential buildings that have hourly data for one year. 
+2. Engineer various temporal features to characterize building use type
+3. Build prediction models to classify use-type and performance level
+
+Data Overview
+------------
+- Raw temporal and meta data are found in /data/raw/
 
 Project Organization
 ------------
