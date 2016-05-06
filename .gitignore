@@ -74,4 +74,5 @@ target/
 
 data/raw/meta.csv
 data/raw/temporal.csv
+data/raw/temporal_open.csv
 
