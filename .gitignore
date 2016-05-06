@@ -73,6 +73,6 @@ target/
 ./data/
 
 data/raw/meta.csv
-data/raw/temporal.csv
-data/raw/temporal_open.csv
+data/raw/temp.csv
+data/raw/temp_open.csv
 
