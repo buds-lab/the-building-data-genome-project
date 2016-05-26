@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: building_genome_proj.aux
+The style file: abbrv.bst
+Database file #1: building_genome_proj.bib
+Warning--I didn't find a database entry for "taylor_comparison_2006"
+Warning--I didn't find a database entry for "price_methods_2010"
+Warning--I didn't find a database entry for "mathieu_quantifying_2011"
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            506 strings with 3882 characters,
+and the built_in function-call counts, 292 in all, are:
+= -- 29
+> -- 7
+< -- 0
++ -- 3
+- -- 2
+* -- 23
+:= -- 55
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 25
+format.name$ -- 2
+if$ -- 56
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 2
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 21
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 4
+width$ -- 2
+write$ -- 13
+(There were 3 warnings)

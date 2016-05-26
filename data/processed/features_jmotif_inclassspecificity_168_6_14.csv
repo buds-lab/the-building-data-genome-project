@@ -1,4 +1,4 @@
-building_name,BG_jmotif_inclasssim_168_6_14,BG_weeklyspecificity_mean,BG_weeklyspecificity_std,BG_weeklyspecificity_min,BG_weeklyspecificity_max
+building_name,BG_jmotif_inclasssim_168_6_14,BG_jmotiftemporal_168_6_14_mean,BG_jmotiftemporal_168_6_14_std,BG_jmotiftemporal_168_6_14_min,BG_jmotiftemporal_168_6_14_max
 Office_Elizabeth,0.0692844414863,0.0763316874793,0.334472341075,-0.581341404204,1.76814826845
 Office_Ellie,0.0709474820703,0.291282025841,0.549518713287,-1.60993702094,1.61522004948
 Office_Cristina,0.109096585461,0.740646803743,0.427234915342,-0.656809127552,1.29822277994
