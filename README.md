@@ -3,6 +3,10 @@ Transformation of Raw Electrical Meter Data for Temporal Data Mining of Building
 
 This project is a supplement to [Clayton Miller's](https://www.researchgate.net/profile/Clayton_Miller2) dissertation titled [Screening Meter Data: Unsupervised Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings](https://github.com/architecture-building-systems/clayton-thesis-screening-meter-data)
 
+Citation
+------------
+[Please cite this work if you use the data set](https://www.researchgate.net/publication/314081046_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_buildings_electrical_meters)
+
 Goals of Project
 ------------
 1. Give an overview of 507 non-residential buildings that have hourly data for one year. 
