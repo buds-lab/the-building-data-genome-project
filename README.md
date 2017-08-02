@@ -11,14 +11,14 @@ Details of Project
 1. A temporal data set of hourly whole building electrical data for one year (8760 points per building for 507 buildings)
 2. Meta data about each building including floor area, primary use type, weather file, and other various characteristics
 
-
-This project was used in the following publications:
-[Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zurich, Zurich, Switzerland.
-](https://www.research-collection.ethz.ch/handle/20.500.11850/125778)
-
 Data Overview
 ------------
 - Raw temporal and meta data are found in /data/raw/
+
+Publications that use this data-set:
+------------
+[Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zurich, Zurich, Switzerland.
+](https://www.research-collection.ethz.ch/handle/20.500.11850/125778)
 
 Project Organization
 ------------
