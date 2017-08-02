@@ -14,6 +14,8 @@ Details of Project
 Data Overview
 ------------
 - Raw temporal and meta data are found in /data/raw/
+- [Meta data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Meta%20Data%20Exploration.ipynb)
+- [Temporal data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Temporal%20Data%20Exploration%20--%20Subset.ipynb)
 
 Publications that use this data-set:
 ------------
