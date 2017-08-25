@@ -1,5 +1,7 @@
-A repository of whole building electrical meters from non-residential buildings
-==============================
+<!-- A repository of whole building electrical meters from non-residential buildings
+============================== -->
+
+![building data genome logo](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/buildingdatagenome.png)
 
 - Does your data science technique actually scale across hundreds of buildings?
 -  Is it actually faster or more accurate?
@@ -10,19 +12,32 @@ The time-series data mining community identifed this problem as early as 2003: â
 
 [They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
 
-### The old way of building performance data science relies on each individual researcher
+### Most of the existing building performance data science studies rely on each individual researcher creating their own methods, finding a case study data set and determining efficacy on their own. Not surprisingly, most of those researcher find positive, yet questionably meaningful results.
 
 ![old way](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/Oldway.png)
+
+
+### Using a large, consistent benchmark data set from hundreds (or thousands) of buildings, a researcher can determine how well their methods actually perform across a heterogeneous data set. If multiple researcher use the same data set, then there can be meaningful comparisons of accuracy, speed and ease-of-use.
+
+![new way](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/NewWay.png)
+
+## Introducing the Building Data Genome Project
+It is an open data set from 507 non-residential buildings that includes hourly whole building electrical meter data for one year. Each of the buildings has meta data such as  or area, weather, and primary use type. This data set can be used to benchmark various statistical learning algorithms and other data science techniques. It can also be used simply as a teaching or learning tool to practice dealing with measured performance data from large numbers of non-residential buildings. The charts below illustrate the breakdown of the buildings according to location, building industry, sub-industry, and primary use type.
+
+![meta data](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/allbars.png)
+
+## Please contribute new data sets or provide analysis examples in Jupyter or R markdown using the data
+
 
 Citation of Data-Set
 ------------
 
 [Miller, C., Meggers, F., 2017. The Building Data Genome Project: An open public data set from non-residential building electrical meters. Presented at the CISBAT 2017, Lausanne, Switzerland.](https://www.researchgate.net/publication/314081046_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_buildings_electrical_meters)
 
-Details of Project
+<!-- Details of Project
 ------------
 1. A temporal data set of hourly whole building electrical data for one year (8760 points per building for 507 buildings)
-2. Meta data about each building including floor area, primary use type, weather file, and other various characteristics
+2. Meta data about each building including floor area, primary use type, weather file, and other various characteristics -->
 
 Data Overview
 ------------
