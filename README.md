@@ -40,11 +40,13 @@ Data Overview
 - [Meta data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Meta%20Data%20Exploration.ipynb)
 - [Temporal data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Temporal%20Data%20Exploration%20--%20Subset.ipynb)
 
-Publications that use this data-set:
+Publications or Projects that use this data-set:
 ------------
+
+Please update this list if you add notebooks or R-Markdown files to the ``notebook`` folder.
+
 [Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zurich, Zurich, Switzerland.
 ](https://www.research-collection.ethz.ch/handle/20.500.11850/125778)
-
 
 # Contact
 Dr. Clayton Miller
@@ -64,7 +66,7 @@ http://chaos.princeton.edu/
 
 ![logos](https://github.com/buds-lab/the-building-data-genome-project/blob/master/figures/logos.png?raw=true)
 
-<!-- Project Organization
+Project Organization
 ------------
 
     ├── LICENSE
@@ -82,4 +84,4 @@ http://chaos.princeton.edu/
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                              generated with `pip freeze > requirements.txt` -->
+                              generated with `pip freeze > requirements.txt`
