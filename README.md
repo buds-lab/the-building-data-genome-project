@@ -47,14 +47,17 @@ Publications that use this data-set:
 
 
 # Contact
-Dr. Clayton Miller
-Building and Urban Data Science (BUDS) Group National University of Singapore clayton@nus.edu.sg 
-http://budslab.org/
-
-Dr. Forrest Meggers
-Cooling and Heating for Architecturally Optimized System (CHAOS) Lab Princeton University 
-fmeggers@princeton.edu 
-http://chaos.princeton.edu/
+Dr. Clayton Miller\\
+Building and Urban Data Science (BUDS) Group \\
+National University of Singapore \\
+clayton@nus.edu.sg \\
+http://budslab.org/\\
+\\
+Dr. Forrest Meggers\\
+Cooling and Heating for Architecturally Optimized System (CHAOS) Lab\\
+Princeton University \\
+fmeggers@princeton.edu \\
+http://chaos.princeton.edu/\\
 
 ![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contact.png)
 
