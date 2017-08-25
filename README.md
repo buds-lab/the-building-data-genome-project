@@ -26,18 +26,13 @@ It is an open data set from 507 non-residential buildings that includes hourly w
 
 ![meta data](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/allbars.png)
 
-## Please contribute new data sets or provide analysis examples in Jupyter or R markdown using the data
+### Please contribute new data sets or provide analysis examples in Jupyter or R markdown using the data
 
 
 Citation of Data-Set
 ------------
 
 [Miller, C., Meggers, F., 2017. The Building Data Genome Project: An open public data set from non-residential building electrical meters. Presented at the CISBAT 2017, Lausanne, Switzerland.](https://www.researchgate.net/publication/314081046_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_buildings_electrical_meters)
-
-<!-- Details of Project
-------------
-1. A temporal data set of hourly whole building electrical data for one year (8760 points per building for 507 buildings)
-2. Meta data about each building including floor area, primary use type, weather file, and other various characteristics -->
 
 Data Overview
 ------------
@@ -50,7 +45,22 @@ Publications that use this data-set:
 [Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zurich, Zurich, Switzerland.
 ](https://www.research-collection.ethz.ch/handle/20.500.11850/125778)
 
-Project Organization
+
+# Contact
+Dr. Clayton Miller
+Building and Urban Data Science (BUDS) Group National University of Singapore clayton@nus.edu.sg 
+http://budslab.org/
+
+Dr. Forrest Meggers
+Cooling and Heating for Architecturally Optimized System (CHAOS) Lab Princeton University 
+fmeggers@princeton.edu 
+http://chaos.princeton.edu/
+
+![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contact.png)
+
+![logos](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/logos.png)
+
+<!-- Project Organization
 ------------
 
     ├── LICENSE
@@ -68,4 +78,4 @@ Project Organization
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                              generated with `pip freeze > requirements.txt`
+                              generated with `pip freeze > requirements.txt` -->
