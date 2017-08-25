@@ -60,7 +60,7 @@ Princeton University
 fmeggers@princeton.edu
 http://chaos.princeton.edu/
 
-![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contact.png)
+![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contactinfo.png)
 
 ![logos](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/logos.png)
 
