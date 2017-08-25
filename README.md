@@ -10,7 +10,9 @@ The time-series data mining community identifed this problem as early as 2003: â
 
 [They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
 
-<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+### The old way of building performance data science relies on each individual researcher
+
+![old way](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/Oldway.png)
 
 Citation of Data-Set
 ------------
