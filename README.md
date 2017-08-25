@@ -1,7 +1,7 @@
 <!-- A repository of whole building electrical meters from non-residential buildings
 ============================== -->
 
-![building data genome logo](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/buildingdatagenome.png)
+![building data genome logo](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/buildingdatagenome1.png)
 
 - Does your data science technique actually scale across hundreds of buildings?
 -  Is it actually faster or more accurate?
