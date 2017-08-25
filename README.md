@@ -62,7 +62,7 @@ http://chaos.princeton.edu/
 
 ![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contactinfo.png)
 
-![logos](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/logos.png)
+![logos](https://github.com/buds-lab/the-building-data-genome-project/blob/master/figures/logos.png?raw=true)
 
 <!-- Project Organization
 ------------
