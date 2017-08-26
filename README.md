@@ -34,9 +34,13 @@ Citation of Data-Set
 
 [Miller, C., Meggers, F., 2017. The Building Data Genome Project: An open public data set from non-residential building electrical meters. Presented at the CISBAT 2017, Lausanne, Switzerland.](https://www.researchgate.net/publication/314081046_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_buildings_electrical_meters)
 
-Data Overview
+Getting Started
 ------------
-- Raw temporal and meta data are found in /data/raw/
+
+We recommend you download the [Anaconda Python Distribution](https://www.continuum.io/downloads) and use Jupyter to get an understanding of the data.
+- Raw temporal and meta data are found in `/data/raw/`
+
+Example notebooks are found in `/notebooks/` -- a few good overview examples:
 - [Meta data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Meta%20Data%20Exploration.ipynb)
 - [Temporal data overview](https://github.com/buds-lab/the-building-data-genome/blob/master/notebooks/00_Temporal%20Data%20Exploration%20--%20Subset.ipynb)
 
