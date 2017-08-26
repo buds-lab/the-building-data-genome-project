@@ -12,6 +12,8 @@ The time-series data mining community identifed this problem as early as 2003: â
 
 [They created the time-series data benchmarking set](http://www.cs.ucr.edu/~eamonn/time_series_data/). This data set enables testing of new techniques on an assortment of real world data sets. For commerical buildings data, we are doing the same!
 
+## The need for Benchmarking Data Set for Non-residential Building Data Analytics
+
 ### Most of the existing building performance data science studies rely on each individual researcher creating their own methods, finding a case study data set and determining efficacy on their own. Not surprisingly, most of those researcher find positive, yet questionably meaningful results.
 
 ![old way](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/Oldway.png)
