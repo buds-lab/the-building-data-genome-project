@@ -51,8 +51,30 @@ Publications or Projects that use this data-set:
 
 Please update this list if you add notebooks or R-Markdown files to the ``notebook`` folder.
 
-[Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zurich, Zurich, Switzerland.
-](https://www.research-collection.ethz.ch/handle/20.500.11850/125778)
+[Clayton Miller, Forrest Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, Energy Procedia, Volume 122, September 2017, Pages 439-444, ISSN 1876-6102, https://doi.org/10.1016/j.egypro.2017.07.400.](http://www.sciencedirect.com/science/article/pii/S1876610217330047) [ResearchGate](https://www.researchgate.net/publication/319507342_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_building_electrical_meters)
+
+```
+BibTex:
+@article{Miller2017439,
+title = "The Building Data Genome Project: An open, public data set from non-residential building electrical meters ",
+journal = "Energy Procedia ",
+volume = "122",
+number = "",
+pages = "439 - 444",
+year = "2017",
+note = "\{CISBAT\} 2017 International ConferenceFuture Buildings &amp; Districts – Energy Efficiency from Nano to Urban Scale ",
+issn = "1876-6102",
+doi = "https://doi.org/10.1016/j.egypro.2017.07.400",
+url = "http://www.sciencedirect.com/science/article/pii/S1876610217330047",
+author = "Clayton Miller and Forrest Meggers",
+keywords = "Open Data",
+keywords = "Non-Residential Building Meter Data",
+keywords = "Benchmark Data Set",
+keywords = "Big Data",
+keywords = "Machine Learning ",
+abstract = "Abstract As of 2015, there are over 60 million smart meters installed in the United States; these meters are at the forefront of big data analytics in the building industry. However, only a few public data sources of hourly non-residential meter data exist for the purpose of testing algorithms. This paper describes the collection, cleaning, and compilation of several such data sets found publicly on-line, in addition to several collected by the authors. There are 507 whole building electrical meters in this collection, and a majority are from buildings on university campuses. This group serves as a primary repository of open, non-residential data sources that can be built upon by other researchers. An overview of the data sources, subset selection criteria, and details of access to the repository are included. Future uses include the application of new, proposed prediction and classification models to compare performance to previously generated techniques. "
+}
+```
 
 # Contact
 Dr. Clayton Miller
@@ -68,9 +90,6 @@ Princeton University
 fmeggers@princeton.edu
 http://chaos.princeton.edu/
 
-![contact](https://raw.githubusercontent.com/buds-lab/the-building-data-genome-project/master/figures/contactinfo.png)
-
-![logos](https://github.com/buds-lab/the-building-data-genome-project/blob/master/figures/logos.png?raw=true)
 
 Project Organization
 ------------
