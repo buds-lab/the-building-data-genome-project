@@ -34,7 +34,9 @@ It is an open data set from 507 non-residential buildings that includes hourly w
 Citation of Data-Set
 ------------
 
-[Clayton Miller, Forrest Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, Energy Procedia, Volume 122, September 2017, Pages 439-444, ISSN 1876-6102, https://doi.org/10.1016/j.egypro.2017.07.400.](http://www.sciencedirect.com/science/article/pii/S1876610217330047) [ResearchGate](https://www.researchgate.net/publication/319507342_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_building_electrical_meters)
+[Clayton Miller, Forrest Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, Energy Procedia, Volume 122, September 2017, Pages 439-444, ISSN 1876-6102, https://doi.org/10.1016/j.egypro.2017.07.400.](http://www.sciencedirect.com/science/article/pii/S1876610217330047) 
+
+[ResearchGate](https://www.researchgate.net/publication/319507342_The_Building_Data_Genome_Project_An_open_public_data_set_from_non-residential_building_electrical_meters)
 
 ```
 BibTex:
