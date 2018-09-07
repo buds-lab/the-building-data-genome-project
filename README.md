@@ -77,6 +77,7 @@ Publications or Projects that use this data-set:
 Please update this list if you add notebooks or R-Markdown files to the ``notebook`` folder.
 
 - [Miller, Clayton. “Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings.” ETH Zürich, 2017.](https://www.research-collection.ethz.ch/handle/20.500.11850/125778) - [ResearchGate](https://www.researchgate.net/publication/313720565_Screening_Meter_Data_Characterization_of_Temporal_Energy_Data_from_Large_Groups_of_Non-Residential_Buildings)
+- [Temporal Data Mining Library for Buildings](https://github.com/buds-lab/temporal-features-for-nonres-buildings-library)
 
 
 # Contact -- (Add yours if you contribute to the data set)
