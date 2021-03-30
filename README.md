@@ -1,4 +1,4 @@
-# Check out the the Building Data Genome 2 - the latest version that supercedes this one: https://github.com/buds-lab/building-data-genome-project-2
+# Check out the Building Data Genome 2 - the latest version that supercedes this one: https://github.com/buds-lab/building-data-genome-project-2
 
 <!-- A repository of whole building electrical meters from non-residential buildings
 ============================== -->
